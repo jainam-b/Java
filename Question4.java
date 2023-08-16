@@ -13,8 +13,8 @@ public class Question4 {
             System.out.println("Enter number:");
             a[i] = sc.nextInt();
         }
-
-        // Loop for ascending order
+                                //  i  j
+        // Loop for ascending order 4 8 9 10 12
         for (int i = 0; i < a.length; i++) {
             for (int j = 0; j < a.length; j++) {
                 if (a[i] < a[j]) {

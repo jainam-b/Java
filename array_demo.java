@@ -10,8 +10,7 @@ public class array_demo {
 
             System.out.println("Enter a number:");
             a[i] = sc.nextInt();
-        }
-        ;
+        };
         for (int i = 0; i < a.length; i++) {
             
                 if (a[0] > max) {
