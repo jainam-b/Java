@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class ArrayOperations {
-    // data
+    
     public int[] data() {
         Scanner sc;
         int a[] = new int[5];
@@ -46,7 +46,7 @@ public class ArrayOperations {
             }
         }
         ;
-        // Print Space to organise
+        
         System.out.println("");
         // print array a
         for (int x = 0; x < a.length; x++) {
