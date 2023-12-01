@@ -18,7 +18,7 @@ public class array_demo {
                 }
             
         }
-        System.out.println("MIn number is " + max);
+        System.out.println("Min number is " + max);
 
     }
 }
